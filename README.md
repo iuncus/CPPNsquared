@@ -1,6 +1,6 @@
 # CPPN Squared
-Using a CPPN (CPPN Squared) to predict the weights of another CPPN (CPPN1), then plug the predicted weights back in the first one to see what comes out
-this is the kind of cursed project that happens when an art student does machine learning
+- Using a CPPN (CPPN Squared) to predict the weights of another CPPN (CPPN1), then plug the predicted weights back in the first one to see what comes out
+- this is the kind of cursed project that happens when an art student does machine learning
 
 ## Breakdown of files
 #### ipynb notebooks
