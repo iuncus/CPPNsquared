@@ -1,7 +1,7 @@
 # CPPN Squared
 
 ## Overview
-CPPN Squared is an experimental project that leverages a [Compositional Pattern-Producing Network (CPPN)](https://en.wikipedia.org/wiki/Compositional_pattern-producing_network) to predict the weights of another CPPN. The predicted weights are then fed back into the original network to analyze the output. This project explores generative machine learning in an artistic context.
+CPPN Squared is an experimental project that leverages a [Compositional Pattern-Producing Network (CPPN)](https://en.wikipedia.org/wiki/Compositional_pattern-producing_network) to predict the weights of another CPPN. The predicted weights are then fed back into the original network to analyze the output. This is the kind of project that happens when an art student gets their hands on machine learning.
 
 
 ## Repository Structure
